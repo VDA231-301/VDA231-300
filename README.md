@@ -1,8 +1,7 @@
-# VDA231-300
-description and embedding of material and surface requirements in the 3D data set
-
 ![VDA-231-300](https://github.com/user-attachments/assets/72388c7e-f8cb-4b88-9d17-1636772da4c6)
 
+# VDA231-300
+description and embedding of material and surface requirements in the 3D data set
 
 The VDA 231-300 standard seeks to embed material requirements in the 3D dataset in a standardized manner.
 Using the CAD-neutral data format "JT" as per ISO-14306 and DIN SPEC 91383 it standardizes all needed material and surface requirements in the 3D dataset. The information is anchored as attributes in the JT at individual bodies, creating attribute-value pairs that define the material and surface properties of each body. These pairs can be uniquely assigned to a body in the 3D dataset of design systems, making the information digitally evaluable for all subsequent processes.
