@@ -1,4 +1,4 @@
-![VDA-231-300](https://github.com/user-attachments/assets/72388c7e-f8cb-4b88-9d17-1636772da4c6)
+![VDA-231-300](assets/VDA231-300.png)
 
 # VDA231-300
 description and embedding of material and surface requirements in the 3D data set
@@ -10,4 +10,4 @@ The contents of VDA 231-300 have been incorporated into DIN SPEC 91383 and the p
 
 https://standards.iso.org/iso/14306/-4/ed-1/en/
 
-![image](https://github.com/user-attachments/assets/fceb0c51-1939-4011-a2cb-8927e026aff2)
+![image](assets/VDA231-300-Grafik1.svg)
