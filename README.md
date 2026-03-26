@@ -37,11 +37,10 @@ This approach allows material‑related information to be:
 - reused across different tools and processes without manual re‑interpretation.
 
 By relying on a **CAD‑neutral data format**, the concept supports interoperability across different CAD systems and IT landscapes.
-
 ---
-
+![image](assets/VDA231-300-Grafik1.svg)
 ## Relation to International Standards
-
+---
 The contents of VDA 231‑300 have been incorporated into:
 - **DIN SPEC 91383**
 - the public library of **ISO 14306 (JT format)**
@@ -90,4 +89,3 @@ Contributions are welcome.
 Any changes intended to become part of the official VDA 231‑300 recommendation must follow the formal VDA committee and release process.
 
 
-![image](assets/VDA231-300-Grafik1.svg)
