@@ -81,11 +81,26 @@ The recommendation focuses on **data structure and interoperability**, not on in
 
 ---
 
-## License and Contribution
+## License
 
 The contents of this repository are released under the **MIT License**, allowing free use, modification, and distribution.
 
 Contributions are welcome.  
 Any changes intended to become part of the official VDA 231‑300 recommendation must follow the formal VDA committee and release process.
 
+## Contributing & VDA Process
 
+This repository hosts the material and surface properties of VDA 231-300.
+
+Contributions are welcome.  
+
+Any changes intended to become part of the official VDA 231‑300 recommendation must follow the formal VDA committee and release process.
+
+GitHub is used as a platform for collaborative drafting, discussion, and technical refinement.  
+Issues and Pull Requests are welcome.
+
+⚠️ Please note:  
+Only subschemas that have successfully passed the formal VDA committee and release process may become part of the official VDA 231‑301 recommendation.
+
+Details on contribution rules, governance, and approval processes are described in the organization-wide Contributing Guidelines:  
+https://github.com/VDA231-301/.github/blob/main/CONTRIBUTING.md
