@@ -1,7 +1,8 @@
 ![VDA-231-300](assets/VDA231-300.png)
 
 # VDA 231‑300 – Embedding of Material and Surface Requirements in 3D Data
-
+🔗 This subschema is part of the VDA 231‑301 ecosystem
+→ https://github.com/VDA231-301
 ## Purpose and Scope
 
 The **VDA 231‑300 recommendation** defines a standardized approach for the **description and embedding of material and surface requirements directly into 3D datasets**.
